@@ -2684,7 +2684,7 @@ Skills and learning areas include:
 Explore the complete development projects, learning repositories, and technical resources:
 
 **GitHub:**  
-https://github.com/shaikbasha-dev
+https://github.com/smbashadev
 
 ## LinkedIn
 
